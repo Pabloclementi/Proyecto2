@@ -1,13 +1,13 @@
 # Análisis de Conexión a Internet en la República Argentina 
 
-[Imagen de Conexión](images/index02.png) 
+![Imagen de Conexión](images/index02.png) 
 
 
 
 
 
 
-[Imagen de Velocidad](images/index01.png)
+![Imagen de Velocidad](images/index01.png)
 
 
 
